@@ -4,7 +4,7 @@ If you like what you see here, feel free to follow or contribute.
 
 Since GitHub generously provided this template...
 
-- 🔭 I’m currently working on: my blog at [chadbaldwin.net](https://kreskn.com)
+- 🔭 I’m currently working on: my blog at [kreskn.com](https://kreskn.com)
 - 🌱 I’m currently learning: All sorts of things...Python, Exploit Development, IOT Hacking, Anomaly Detection...
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: [here](https://kreskn.com/about)
